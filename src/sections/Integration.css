@@ -1,0 +1,1556 @@
+.style-integrate-0 {
+    place-content: center;
+    align-items: center;
+    background-color: rgb(28, 28, 28);
+    display: flex;
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    gap: 20px;
+    height: 760.6px;
+    overflow: hidden;
+    padding: 100px 0px 0px;
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-1 {
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    gap: 60px;
+    height: 660.6px;
+    max-width: 1200px;
+    overflow: hidden;
+    padding: 0px;
+    position: relative;
+    width: 95%;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-2 {
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    gap: 20px;
+    height: 327.6px;
+    overflow: hidden;
+    padding: 0px;
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-3 {
+    flex: 0 0 auto;
+    height: auto;
+    position: relative;
+    width: auto;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-4 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-5 {
+    --border-bottom-width: 1px;
+    --border-color: rgba(130, 71, 255, 0.2);
+    --border-left-width: 1px;
+    --border-right-width: 1px;
+    --border-style: solid;
+    --border-top-width: 1px;
+    background-color: var(--token-20257545-130a-452b-8942-48d79a1f3d66, rgb(255, 255, 255));
+    opacity: 1;
+    border-radius: 8px;
+    --border-color: rgba(130, 71, 255, 0.2);
+    --border-left-width: 1px;
+    --border-right-width: 1px;
+    --border-style: solid;
+    --border-top-width: 1px;
+    background-color: rgb(255, 255, 255);
+    opacity: 1;
+    border-radius: 8px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 6px;
+    height: 29.6px;
+    padding: 4px 10px;
+    position: relative;
+    width: min-content;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-6 {
+    outline: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    --extracted-r6o4lv: var(--token-8d3b0b5c-ed9a-45d2-b302-4c9cef737fdc, rgb(130, 71, 255));
+    --framer-link-text-color: rgb(0, 153, 255);
+    --framer-link-text-decoration: underline;
+    --framer-paragraph-spacing: 0px;
+    transform: none;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    --extracted-r6o4lv: var(--token-8d3b0b5c-ed9a-45d2-b302-4c9cef737fdc, rgb(130, 71, 255));
+    --framer-link-text-color: rgb(0, 153, 255);
+    --framer-link-text-decoration: underline;
+    --framer-paragraph-spacing: 0px;
+    transform: none;
+    opacity: 1;
+    position: relative;
+    flex: 0 0 auto;
+    height: auto;
+    white-space: pre;
+    width: auto;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-7 {
+    --font-selector: R0Y7T3V0Zml0LTYwMA==;
+    --framer-font-family: &quot,
+    Outfit&quot
+    ,
+    sans-serif;
+    --framer-font-size: 18px;
+    --framer-font-weight: 600;
+    --framer-text-color: var(--extracted-r6o4lv)font-family:Outfit, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    color: rgb(130, 71, 255);
+    font-size: 18px;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(130, 71, 255);
+    line-height: 21.6px;
+    text-align: start;
+    margin: 0px;
+    padding: 0px;
+    font-family: Outfit, sans-serif;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-8 {
+    outline: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    --extracted-r6o4lv: var(--token-8d3b0b5c-ed9a-45d2-b302-4c9cef737fdc, rgb(130, 71, 255));
+    --framer-link-text-color: rgb(0, 153, 255);
+    --framer-link-text-decoration: underline;
+    --framer-paragraph-spacing: 0px;
+    transform: none;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    --extracted-r6o4lv: var(--token-8d3b0b5c-ed9a-45d2-b302-4c9cef737fdc, rgb(130, 71, 255));
+    --framer-link-text-color: rgb(0, 153, 255);
+    --framer-link-text-decoration: underline;
+    --framer-paragraph-spacing: 0px;
+    transform: none;
+    opacity: 1;
+    position: relative;
+    flex: 0 0 auto;
+    height: auto;
+    white-space: pre;
+    width: auto;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-9 {
+    --font-selector: R0Y7T3V0Zml0LTYwMA==;
+    --framer-font-family: &quot,
+    Outfit&quot
+    ,
+    sans-serif;
+    --framer-font-size: 12px;
+    --framer-font-weight: 600;
+    --framer-letter-spacing: 0.08em;
+    --framer-text-color: var(--extracted-r6o4lv);
+    --framer-text-transform: uppercasefont-family:Outfit, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    color: rgb(130, 71, 255);
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    text-transform: uppercase;
+    text-decoration: none solid rgb(130, 71, 255);
+    line-height: 14.4px;
+    text-align: start;
+    margin: 0px;
+    padding: 0px;
+    font-family: Outfit, sans-serif;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-10 {
+    outline: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    opacity: 1;
+    flex-shrink: 0;
+    transform: perspective(1200px);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    opacity: 1;
+    flex-shrink: 0;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.000833333, 0, 0, 0, 1);
+    position: relative;
+    --framer-link-text-color: #0099ff;
+    --framer-link-text-decoration: underline;
+    --framer-paragraph-spacing: 0px;
+    flex: 0 0 auto;
+    height: auto;
+    max-width: 600px;
+    white-space: pre-wrap;
+    width: 100%;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-11 {
+    --framer-text-color: var(--token-25b49406-73f2-421a-adb7-81b18f488918, rgb(253, 242, 236))font-family:Outfit, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: rgb(253, 242, 236);
+    font-size: 56px;
+    letter-spacing: -1px;
+    text-transform: none;
+    text-decoration: none solid rgb(253, 242, 236);
+    line-height: 56px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    --framer-font-family: 'Outfit', sans-serif;
+    --framer-font-size: 56px;
+    --framer-font-style: normal;
+    --framer-font-weight: 500;
+    --framer-letter-spacing: -1px;
+    --framer-line-height: 1em;
+    --framer-paragraph-spacing: 40px;
+    --framer-text-alignment: center;
+    --framer-text-decoration: none;
+    --framer-text-transform: none;
+    font-family: Outfit, sans-serif;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-12 {
+    --framer-text-color: var(--token-64932479-7baa-43ec-9f43-39d03638d132, rgb(254, 129, 98))font-family:Outfit, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: rgb(254, 129, 98);
+    font-size: 56px;
+    letter-spacing: -1px;
+    text-transform: none;
+    text-decoration: none solid rgb(254, 129, 98);
+    line-height: 56px;
+    text-align: center;
+    font-family: Outfit, sans-serif;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-13 {
+    outline: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    transform: none;
+    position:relative;
+    --framer-paragraph-spacing: 0px;
+    flex: 0 0 auto;
+    height: auto;
+    max-width: 450px;
+    overflow: visible;
+    position: relative;
+    white-space: pre-wrap;
+    width: 100%;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    z-index: 3;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-14 {
+    --framer-text-color: var(--token-c2cb5cfb-ae03-498f-bf71-8ab828c3e13b, rgb(118, 117, 117))font-family:Inter, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: rgb(118, 117, 117);
+    font-size: 20px;
+    letter-spacing: -0.5px;
+    text-transform: none;
+    text-decoration: none solid rgb(118, 117, 117);
+    line-height: 30px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    --framer-font-family: 'Inter', sans-serif;
+    --framer-font-size: 20px;
+    --framer-font-style: normal;
+    --framer-font-weight: 500;
+    --framer-letter-spacing: -.5px;
+    --framer-line-height: 1.5em;
+    --framer-paragraph-spacing: 20px;
+    --framer-text-alignment: center;
+    --framer-text-decoration: none;
+    --framer-text-transform: none;
+    font-family: Inter, sans-serif;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-15 {
+    opacity: 1;
+    transform: perspective(1200px);
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.000833333, 0, 0, 0, 1);
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    flex: 0 0 auto;
+    height: 273px;
+    max-width: 580px;
+    overflow: visible;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-16 {
+    position: absolute;
+    border-radius: inherit;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-17 {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+    object-position: center;
+    object-fit: cover;
+    image-rendering: auto;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-18 {
+    place-content: center;
+    align-items: center;
+    bottom: 0px;
+    display: flex;
+    flex: 0 0 auto;
+    flex-flow: row nowrap;
+    gap: 10px;
+    left: 100.1px;
+    overflow: hidden;
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+    width: 1319px;
+    z-index: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-19 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(156.701px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 156.701);
+    aspect-ratio: 1 / 1;
+    bottom: 119px;
+    flex: 0 0 auto;
+    height: 80px;
+    left: 0px;
+    position: absolute;
+    width: 80px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-20 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-21 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 80px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-22 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-23 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-24 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-25 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    fill: black;
+    color: black;
+    opacity: 1;
+    flex-shrink: 0;
+    fill: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    flex: 0 0 auto;
+    height: 34px;
+    left: 3.6625px;
+    top: 3px;
+    width: 34px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-26 {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: inherit;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-27 {
+    width: 100%;
+    height: 100%;
+    height:34px;
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-28 {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-29 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(15.2213px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 15.2213);
+    flex: 0 0 auto;
+    height: 65px;
+    left: 13px;
+    position: absolute;
+    top: 90px;
+    width: 65px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-30 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-31 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 65px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-32 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-33 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-34 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-35 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    fill: black;
+    color: black;
+    opacity: 1;
+    flex-shrink: 0;
+    fill: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    flex: 0 0 auto;
+    height: 36px;
+    left: 2px;
+    top: 2px;
+    width: 36px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-36 {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: inherit;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-37 {
+    width: 100%;
+    height: 100%;
+    height:36px;
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-38 {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-39 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(82.515px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 82.515);
+    flex: 0 0 auto;
+    height: 65px;
+    left: 30px;
+    position: absolute;
+    top: 314.312px;
+    width: 65px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-40 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-41 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 65px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-42 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-43 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-44 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-45 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    fill: black;
+    color: black;
+    opacity: 1;
+    flex-shrink: 0;
+    fill: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    flex: 0 0 auto;
+    height: 36px;
+    left: 0.5px;
+    top: 2px;
+    width: 39px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-46 {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: inherit;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-47 {
+    width: 100%;
+    height: 100%;
+    height:36px;
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-48 {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-49 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(52.7213px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 52.7213);
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 80px;
+    left: 167px;
+    position: absolute;
+    top: 215px;
+    width: 80px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-50 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-51 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 80px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-52 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-53 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-54 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-55 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    background-size: 100% 100%;
+    background-image: url('https://framerusercontent.com/images/sQd7MkwgkdQRRQ1a99k5Z1zLfA.png?scale-down-to=1024');
+    opacity: 1;
+    flex-shrink: 0;
+    background-size: 100% 100%;
+    background-image: url('	https://framerusercontent.com/images/sQd7MkwgkdQRRQ1a99k5Z1zLfA.png?scale-down-to=1024');
+    opacity:1;
+    position:absolute;
+    flex: 0 0 auto;
+    height:46px;
+    left:-3px;
+    top:-3px;
+    width: 46px;
+    box-sizing:border-box;
+    -webkit-font-smoothing:antialiased;
+
+}
+
+.style-integrate-56 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(127.901px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 127.901);
+    bottom: 230px;
+    flex: 0 0 auto;
+    height: 65px;
+    left: 172px;
+    position: absolute;
+    width: 65px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-57 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-58 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 65px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-59 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-60 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-61 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-62 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    fill: black;
+    color: black;
+    opacity: 1;
+    flex-shrink: 0;
+    fill: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    flex: 0 0 auto;
+    height: 41px;
+    left: 0.5px;
+    top: -0.5px;
+    width: 39px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-63 {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: inherit;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-64 {
+    width: 100%;
+    height: 100%;
+    height:41px;
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-65 {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-66 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(115.421px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 115.421);
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 80px;
+    position: absolute;
+    right: 174px;
+    top: 424px;
+    width: 80px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-67 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-68 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 80px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-69 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-70 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-71 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-72 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    fill: black;
+    color: black;
+    opacity: 1;
+    flex-shrink: 0;
+    fill: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    flex: 0 0 auto;
+    height: 35px;
+    left: 1px;
+    top: 2.5px;
+    width: 38px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-73 {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: inherit;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-74 {
+    width: 100%;
+    height: 100%;
+    height: 35px;
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-75 {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-76 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(54.5213px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 54.5213);
+    flex: 0 0 auto;
+    height: 65px;
+    position: absolute;
+    right: 169px;
+    top: 221px;
+    width: 65px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-77 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-78 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 65px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-79 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-80 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-81 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-82 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    fill: black;
+    color: black;
+    opacity: 1;
+    flex-shrink: 0;
+    fill: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    flex: 0 0 auto;
+    height: 33px;
+    left: 1px;
+    top: 3.5px;
+    width: 38px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-83 {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: inherit;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-84 {
+    width: 100%;
+    height: 100%;
+    height:33px;
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-85 {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-86 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(78.5213px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 78.5213);
+    flex: 0 0 auto;
+    height: 65px;
+    position: absolute;
+    right: 32px;
+    top: 301px;
+    width: 65px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-87 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-88 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 65px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-89 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-90 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-91 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-92 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    fill: black;
+    color: black;
+    opacity: 1;
+    flex-shrink: 0;
+    fill: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    flex: 0 0 auto;
+    height: 36px;
+    left: 2px;
+    top: 2px;
+    width: 36px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-93 {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: inherit;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-94 {
+    width: 100%;
+    height: 100%;
+    height:36px;
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-95 {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-96 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(17.3213px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 17.3213);
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 80px;
+    left: 1226px;
+    position: absolute;
+    top: 97px;
+    width: 80px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-97 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-98 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 80px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-99 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-100 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-101 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-102 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    fill: black;
+    color: black;
+    opacity: 1;
+    flex-shrink: 0;
+    fill: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    flex: 0 0 auto;
+    height: 38px;
+    left: 1px;
+    top: 1.6625px;
+    width: 38px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-103 {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: inherit;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-104 {
+    width: 100%;
+    height: 100%;
+    height:38px;
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-105 {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-106 {
+    visibility: initial;
+    opacity: 1;
+    transform: translateX(0px) translateY(156.701px) scale(1) rotate(0deg) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 156.701);
+    aspect-ratio: 1 / 1;
+    bottom: 119px;
+    flex: 0 0 auto;
+    height: 80px;
+    position: absolute;
+    right: 0px;
+    width: 80px;
+    z-index: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-107 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-108 {
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    height: 80px;
+    width: 100%;
+    opacity: 1;
+    border-radius: 20px;
+    place-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    overflow: hidden;
+    padding: 9px;
+    position: relative;
+    will-change: transform;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-109 {
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 auto;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-110 {
+    display: contents;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-111 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    width: 100%;
+    opacity: 1;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-112 {
+    image-rendering: pixelated;
+    flex-shrink: 0;
+    fill: black;
+    color: black;
+    opacity: 1;
+    flex-shrink: 0;
+    fill: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    flex: 0 0 auto;
+    height: 38px;
+    left: 0.5px;
+    top: 1px;
+    width: 39px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-113 {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: inherit;
+    box-sizing:border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-114 {
+    width: 100%;
+    height: 100%;
+    height:38px;
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.style-integrate-115 {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
